@@ -16,3 +16,6 @@
 [submodule "sdev07"]
 	path = sdev07
 	url = git@github.com:jennifer4569/animated-octo-invention.git
+[submodule "sdev08"]
+	path = sdev08
+	url = git@github.com:kkysen/RedirectedLoginSession.git
