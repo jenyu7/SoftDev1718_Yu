@@ -13,3 +13,6 @@
 [submodule "sdev06"]
 	path = sdev06
 	url = git@github.com:jenyu7/06_echo.git
+[submodule "sdev07"]
+	path = sdev07
+	url = git@github.com:jennifer4569/animated-octo-invention.git
