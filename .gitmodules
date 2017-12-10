@@ -22,3 +22,6 @@
 [submodule "sdev09"]
 	path = sdev09
 	url = git@github.com:jenyu7/09_sqlite.git
+[submodule "sdev10"]
+	path = sdev10
+	url = git@github.com:jenyu7/fuzzy-sniffle.git
