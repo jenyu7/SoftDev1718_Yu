@@ -40,3 +40,6 @@
 [submodule "sdev16"]
 	path = sdev16
 	url = git@github.com:jenyu7/cuddly-umbrella.git
+[submodule "sdev_proj00"]
+	path = sdev_proj00
+	url = git@github.com:jenyu7/aesop.git
