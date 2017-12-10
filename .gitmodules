@@ -19,3 +19,6 @@
 [submodule "sdev08"]
 	path = sdev08
 	url = git@github.com:kkysen/RedirectedLoginSession.git
+[submodule "sdev09"]
+	path = sdev09
+	url = git@github.com:jenyu7/09_sqlite.git
