@@ -37,3 +37,6 @@
 [submodule "sdev15"]
 	path = sdev15
 	url = git@github.com:jenyu7/laughing-barnacle.git
+[submodule "sdev16"]
+	path = sdev16
+	url = git@github.com:jenyu7/cuddly-umbrella.git
