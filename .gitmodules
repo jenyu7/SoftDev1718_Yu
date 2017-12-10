@@ -43,3 +43,6 @@
 [submodule "sdev_proj00"]
 	path = sdev_proj00
 	url = git@github.com:jenyu7/aesop.git
+[submodule "sdev_proj01"]
+	path = sdev_proj01
+	url = git@github.com:tmoi29/awkward_armadillos.git
