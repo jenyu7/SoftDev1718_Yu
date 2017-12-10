@@ -1,9 +1,6 @@
 [submodule "sdev02"]
 	path = sdev02
 	url = git@github.com:jenyu7/sup.git
-[submodule "sdev03"]
-	path = sdev03
-	url = git@github.com:jenyu7/2JZ.git
 [submodule "sdev04"]
 	path = sdev04
 	url = git@github.com:jenyu7/04_flask.git
