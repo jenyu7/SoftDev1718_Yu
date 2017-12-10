@@ -31,3 +31,6 @@
 [submodule "sdev12"]
 	path = sdev12
 	url = git@github.com:EugeneThomas/BringBackTheHiddenLinks.git
+[submodule "sdev13"]
+	path = sdev13
+	url = git@github.com:jenyu7/13_rest.git
