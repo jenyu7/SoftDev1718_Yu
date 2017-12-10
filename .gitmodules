@@ -7,3 +7,6 @@
 [submodule "sdev03"]
 	path = sdev03
 	url = git@github.com:sngo1/fantastic-giggle.git
+[submodule "sdev05"]
+	path = sdev05
+	url = git@github.com:jenyu7/2JZ.git
