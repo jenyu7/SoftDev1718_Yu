@@ -1,0 +1,3 @@
+[submodule "sdev02"]
+	path = sdev02
+	url = git@github.com:jenyu7/sup.git
