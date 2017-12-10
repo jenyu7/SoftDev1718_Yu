@@ -10,3 +10,6 @@
 [submodule "sdev05"]
 	path = sdev05
 	url = git@github.com:jenyu7/2JZ.git
+[submodule "sdev06"]
+	path = sdev06
+	url = git@github.com:jenyu7/06_echo.git
