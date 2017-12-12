@@ -46,3 +46,6 @@
 [submodule "sdev_proj01"]
 	path = sdev_proj01
 	url = git@github.com:tmoi29/awkward_armadillos.git
+[submodule "sdev17"]
+	path = sdev17
+	url = git@github.com:jenyu7/17_Moo.git
