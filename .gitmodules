@@ -49,3 +49,6 @@
 [submodule "sdev17"]
 	path = sdev17
 	url = git@github.com:jenyu7/17_Moo.git
+[submodule "2_sdev00"]
+	path = 2_sdev00
+	url = git@github.com:jenyu7/sdev_s2hw0.git
