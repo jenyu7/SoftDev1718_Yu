@@ -64,3 +64,6 @@
 [submodule "2_sdev06"]
 	path = 2_sdev06
 	url = git@github.com:slau8/21-softdev.git
+[submodule "2_sdev07"]
+	path = 2_sdev07
+	url = git@github.com:jenyu7/sdev_s2hw07.git
