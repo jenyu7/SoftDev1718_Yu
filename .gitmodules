@@ -70,6 +70,3 @@
 [submodule "2_sdev08"]
 	path = 2_sdev08
 	url = git@github.com:jenyu7/sdev_s2hw08.git
-[submodule "2_sdev09"]
-	path = 2_sdev09
-	url = git@github.com:jenyu7/sdev_s2hw08.git
